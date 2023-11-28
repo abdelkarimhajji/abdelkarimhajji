@@ -8,7 +8,7 @@
        <img src="https://github-readme-stats.vercel.app/api?username=karimhajji1" alt="Anurag's GitHub stats">
     </a>
   </span>
-  <span align="right">
+  <span align="right" hspace="20">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimhajji1&size_weight=0.5&count_weight=0.5" alt="Top Langs">
   </span>
 </div>
