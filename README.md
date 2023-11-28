@@ -3,7 +3,7 @@
   <img src="https://badge.mediaplus.ma/greenbinary/ahajji" alt="ahajji's 42 stats" />
 </div>
 <div>
-  <span align="left">
+  <span align="left" hspace="100">
     <a href="https://github.com/anuraghazra/github-readme-stats">
        <img src="https://github-readme-stats.vercel.app/api?username=karimhajji1" alt="Anurag's GitHub stats">
     </a>
