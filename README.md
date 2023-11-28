@@ -2,12 +2,13 @@
 <div align="center">
   <img src="https://badge.mediaplus.ma/greenbinary/ahajji" alt="ahajji's 42 stats" />
 </div>
-
-<div align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img src="https://github-readme-stats.vercel.app/api?username=karimhajji1" alt="Anurag's GitHub stats">
-  </a>
-</div>
-<div align="right">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimhajji1&size_weight=0.5&count_weight=0.5" alt="Top Langs">
+<div>
+  <span align="left">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+       <img src="https://github-readme-stats.vercel.app/api?username=karimhajji1" alt="Anurag's GitHub stats">
+    </a>
+  </span>
+  <span align="right">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimhajji1&size_weight=0.5&count_weight=0.5" alt="Top Langs">
+  </span>
 </div>
