@@ -22,7 +22,7 @@
 </div>
 <br/>
 <h2>Languages and Tools:</h2>
-<h2>Profile 42:</h2>
+<h2>Profile 42: </h2>
 <div align="center">
   <img src="https://badge.mediaplus.ma/greenbinary/ahajji" alt="ahajji's 42 stats" />
 </div>
