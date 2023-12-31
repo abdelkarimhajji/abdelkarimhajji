@@ -9,7 +9,7 @@
  
 <br/>  
 <h2 align="left">Connect with me:  </h2>
-<div style="margin-top:25px;margin-left: 20px">
+<div style="margin-top:25px;margin-left:20px">
     <a  href="" >
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
