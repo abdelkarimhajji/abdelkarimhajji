@@ -28,5 +28,4 @@
 <h2>Profile 42:</h2>
 <div align="center">
 	<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/ahajji" alt="ahajji's 42 stats" /></a>
-  <img src="https://badge.mediaplus.ma/greenbinary/ahajji" alt="ahajji's 42 stats" />
 </div>
