@@ -6,11 +6,11 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelkarimhajji&layout=compact&langs_count=7&theme=dracula"/>
   </span>
 </div>  
-
+<br/>  
 
 <h2 align="left"> My portfolio: </h2>
 <p>https://abdelkarimhajji.github.io/my-portfolio/</p>
-<br/>  
+
 <h2 align="left">Connect with me:</h2> 
 <div style="margin-top:25px;margin-left:20px">
     <a  href="mailto:abdelkarim.hujji@gmail.com" >
