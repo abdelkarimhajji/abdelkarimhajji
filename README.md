@@ -9,7 +9,7 @@
 <br/>  
 
 <h2 align="left"> My portfolio: </h2>
-<p>https://abdelkarimhajji.github.io/my-portfolio/</p>
+<a href="https://abdelkarimhajji.github.io/my-portfolio/">Click here</a>
 
 <h2 align="left">Connect with me:</h2> 
 <div style="margin-top:25px;margin-left:20px">
